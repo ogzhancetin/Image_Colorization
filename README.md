@@ -37,4 +37,4 @@ opencv-contrib v.4.5.1
 
 opencv-contrib:in case you don't have it, run pip uninstall opencv then run pip install opencv-contrib-python
 
-You also need to change "path" variable in code to path of the dataset 
+You also need to change "path" variable in the code to path of the dataset 
