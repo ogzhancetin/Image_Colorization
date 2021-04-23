@@ -26,9 +26,7 @@ Colorized version of target image:
 ![tree_2](https://user-images.githubusercontent.com/44112288/107850379-ea0b2e00-6e12-11eb-8e60-7dda8c93a216.png)
 
 
-This code was tested on Windows 10 machine with INTEL i7 6700HQ using python version 3.7.4 requiring ~8gb of ram
-
-Libraries needed are; 
+Libraries;  
 numpy, 
 pandas, 
 matplotlib, 
